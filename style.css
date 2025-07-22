@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  background: #FADCD9;
+  background: #fff;
   font-family: 'Gilroy', Arial, sans-serif;
 }
 
@@ -8,7 +8,7 @@ body {
   width: 565px;
   height: 479px;
   border-radius: 20px;
-  background: #FADCD9;
+  background: #fff;
   position: relative;
   margin: 40px auto;
   box-shadow: 0 4px 24px rgba(0,0,0,0.03);
